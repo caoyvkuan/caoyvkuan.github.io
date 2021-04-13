@@ -1,1 +1,0 @@
-(this["webpackJsonpstatic-blog"]=this["webpackJsonpstatic-blog"]||[]).push([[4],{164:function(t,e,n){"use strict";n.r(e);n(0);var c=n(2);e.default=function(){return Object(c.jsx)("div",{style:{fontSize:"5rem",textAlign:"center",fontWeight:"bold",color:"red"},children:Object(c.jsx)("span",{children:"404"})})}}}]);
